@@ -134,6 +134,7 @@
 //#include "bsp_rs485_led.h"
 //#include "bsp_can.h"
 
+
 /* 提供给其他C文件调用的函数 */
 void bsp_Init(void);
 void bsp_Idle(void);
